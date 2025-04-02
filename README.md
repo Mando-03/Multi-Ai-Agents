@@ -1,4 +1,4 @@
-# Procurement AI Agent - Rankyx Coffee Machine Procurement Analysis
+# Multi Ai Agents for Products Analysis
 
 ## Overview
 
