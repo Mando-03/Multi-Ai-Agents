@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "page_url": "https://www.noon.com/egypt-en/versuni-3200-series-fully-automatic-espresso-machine-5-coffee-specialties-lattego-milk-solution-1-8-l-1500-w-ep3246-70-silver/N70136471V/p/",
+      "product_title": "Versuni 3200 Series Fully Automatic Espresso Machine, 5 Coffee Specialties, LatteGo Milk Solution 1.8 L 1500 W EP3246/70 Silver",
+      "product_image_url": "https://f.nooncdn.com/p/pnsku/N70136471V/45/_/1735051758/c2c73933-8d84-44a6-bce5-da1464e3b8be.jpg?format=jpg&width=240",
+      "product_url": "https://www.noon.com/egypt-en/philips/",
+      "product_current_price": 61875.0,
+      "product_original_price": null,
+      "product_discount_percentage": null,
+      "product_specs": [
+        {
+          "specification_name": "Material",
+          "specification_value": "Metal"
+        },
+        {
+          "specification_name": "Colour Name",
+          "specification_value": "Silver"
+        },
+        {
+          "specification_name": "Capacity",
+          "specification_value": "1.8 L"
+        },
+        {
+          "specification_name": "Wattage",
+          "specification_value": "1500 W"
+        }
+      ],
+      "agent_recommendation_rank": 5,
+      "agent_recommendation_notes": [
+        "High-quality espresso machine with multiple coffee specialties.",
+        "Easy-to-clean milk system.",
+        "Adjustable aroma and quantity settings.",
+        "Durable ceramic grinders for long-lasting use"
+      ]
+    },
+    {
+      "page_url": "https://www.jumia.com.eg/delonghi-dedica-style-pump-espresso-coffee-machine-15-bar-black-ec-685.bk-130701037.html",
+      "product_title": "Delonghi Dedica Style Pump Espresso Coffee Machine, 15 Bar, Black - EC 685.BK",
+      "product_image_url": "https://eg.jumia.is/unsafe/fit-in/680x680/filters:fill%28white%29/product/73/0107031/1.jpg?2366",
+      "product_url": "https://www.jumia.com.eg/delonghi-dedica-style-pump-espresso-coffee-machine-15-bar-black-ec-685.bk-130701037.html",
+      "product_current_price": 11386.0,
+      "product_original_price": 20000.0,
+      "product_discount_percentage": 43.0,
+      "product_specs": [
+        {
+          "specification_name": "Brand",
+          "specification_value": "Delonghi"
+        },
+        {
+          "specification_name": "Model No.",
+          "specification_value": "EC 685.BK"
+        },
+        {
+          "specification_name": "Color",
+          "specification_value": "Black"
+        },
+        {
+          "specification_name": "Type",
+          "specification_value": "Pump Espresso Coffee Machine"
+        },
+        {
+          "specification_name": "Pump Pressure",
+          "specification_value": "15 Bar"
+        }
+      ],
+      "agent_recommendation_rank": 5,
+      "agent_recommendation_notes": [
+        "High-quality espresso machine with excellent features.",
+        "Good customer reviews and ratings"
+      ]
+    }
+  ]
+}
